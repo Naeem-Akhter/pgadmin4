@@ -14,7 +14,8 @@ import pgAdmin from 'sources/pgadmin';
 import pgWindow from 'sources/window';
 import {getEpoch} from 'sources/utils';
 
-const pgNaeem = "Test message"; 
+const pgNaeem = "Test mes 
+const pgAqeel = "Test ;
 const pgBrowser = pgAdmin.Browser = pgAdmin.Browser || {};
 const MIN_ACTIVITY_TIME_UNIT = 1000; /* in seconds */
 /*
